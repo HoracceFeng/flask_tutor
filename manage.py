@@ -1,0 +1,1 @@
+## management script -- for database interactive and server start ##
